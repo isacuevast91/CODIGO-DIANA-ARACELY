@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="#EBDEF0"
+<head>
+<title> practica 6 </title>
+</head>
+</center>
+<h1><fontface="times"color="de pinck"><u>la cosecha de manzana</u></font></h1>
+<br>
+<img.src="">
+</center>
+<center><font color="#85C1E9"><STRONG<h1>breve historia de las manzanas</h1></STRONG></font>
+</center>
+<p><i><h3>
+<center>
+la manzana opomal es el fruto comestible de la especie malus domesticas,el manzano comun es la fruta pomacea de forma redonda sabor dulce<br>
+la manzana produce de un arbol caducifolio,generalmente de 2 a 4.5 de altura en cultivo y hasta 9m en la naturaleza<br>
+cuando se cultiva el tamaño la forma y la densidad de la rama se determinan mediante el metodo de seleccion y recorte de portainjertos<br>
+las hojas de color verde oscuro,son ovalos simples con margenes cerrados y se inclinan ligeramente hacia abajo,se disponen a lo largo de la rama de forma alterna<br>
+las manzanas son originarias de asi central,especificamente de los bosques de las actuales china,kasajistan<br>
+una tradicion turquica dice que la manzana dice que la manzana proviene de la zona de alma-ata turquia,antigua capital de kazajistam<br>
+entre los 6 paises que mas toneladas de manzanas produjieron en el 2022 se encuentran<br>
+<img src =".\images.jpeg"width="300" height="300">
+<h3></i></p>
+</center>
+<ol>
+<li>la republica popular de china con 40 millones de toneladas
+<li>turquia con 45 millones de toneladas
+<li>estados unidos con 4.4 millones de toneladas
+<li>polonia con 4 millones de toneladas
+<li>india con 2.2 millones de toneladas
+<li>iran con 2.1 millones de toneladas 
+<ol>
+<img.src="">
+<h5><font face="georgia" color="#6C3483">alumno:dianota</font></h5>
+<h5><font face="georgina" color="#6C3483">grupo:4bpm materia:das y dac
+</font></h5>
+<h5><font face="georgia" color="red">nunca dejes de luchar por lo que quieres</font></h5>
+<hr>
+</body>
+</html>
+
